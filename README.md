@@ -1,2 +1,2 @@
 # ToiletInKorea
-Toilets in Korea
+ThiToilets in Korea
