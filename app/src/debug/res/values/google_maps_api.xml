@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=59:2B:67:73:F2:3C:59:C3:08:8A:6B:6B:A0:3B:02:7A:F1:43:F3:B3%3Bcom.divingbeetle.application
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    59:2B:67:73:F2:3C:59:C3:08:8A:6B:6B:A0:3B:02:7A:F1:43:F3:B3
+
+    SHA-1 certificate fingerprint:
+    59:2B:67:73:F2:3C:59:C3:08:8A:6B:6B:A0:3B:02:7A:F1:43:F3:B3
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDwg_DlFrAA8kAElblhaDi7Ug0NG9i24Lg</string>
+</resources>

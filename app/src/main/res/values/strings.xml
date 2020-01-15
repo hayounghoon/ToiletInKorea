@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toilet in Korea</string>
+    <string name="go_button">Go to this toilet</string>
+    <string name="title_activity_maps">Toilet Maps</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="location_warning">You have to use this application in South Korea. Go to Korea for peeing</string>
+    <string name="unisex_toilet">Unisex public toilet</string>
+    <string name="permission_warning">Device location access is required.</string>
+    <string name="title_list">Toilet List</string>
+</resources>

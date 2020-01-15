@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">가까운 화장실</string>
+    <string name="go_button">바로가기 (길찾기)</string>
+    <string name="title_activity_maps">화장실 지도</string>
+    <string name="refresh_button">새로고침</string>
+    <string name="location_warning">이 어플리케이션은 한국에서만 사용 가능합니다.</string>
+    <string name="unisex_toilet">남녀공용</string>
+    <string name="permission_warning">이 어플리케이션은 위치정보 엑세스가 필요합니다.</string>
+    <string name="title_list">가까운 화장실 리스트</string>
+</resources>
